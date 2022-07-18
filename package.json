@@ -11,7 +11,7 @@
   },
   "private": true,
   "dependencies": {
-    "@angular/animations": "^14.0.6",
+    "@angular/animations": "^12.2.16",
     "@angular/common": "^14.0.6",
     "@angular/compiler": "^14.0.6",
     "@angular/core": "~11.0.5",
@@ -22,7 +22,7 @@
     "body-parser": "^1.19.0",
     "bootstrap": "^4.5.0",
     "express": "^4.17.1",
-    "ng-snotify": "^9.0.1",
+    "ng-snotify": "^0.11.6",
     "ngx-spinner": "^9.0.2",
     "nodemailer": "^6.6.1",
     "rxjs": "~6.5.4",
